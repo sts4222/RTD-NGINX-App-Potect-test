@@ -44,7 +44,7 @@ needs_sphinx = '3.3'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_copybutton',
+#   'sphinx_copybutton',
     'sphinx_rtd_theme'
 ]
 
